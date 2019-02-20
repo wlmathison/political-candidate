@@ -1,0 +1,12 @@
+ul {
+    list-style-type: none;
+}
+
+html {
+    background-color: lightgrey;
+}
+
+h4 {
+    border: 1px solid black;
+    width: 180px;
+}
